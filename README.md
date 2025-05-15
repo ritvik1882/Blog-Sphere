@@ -14,14 +14,14 @@ Developed on Next.js and Firebase, Blog Sphere provides a modern and responsive 
 
 ### Read Blogs
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/b9ff3077-30aa-4183-be79-397b7b996fe7" width="450"/>
-  <img src="https://github.com/user-attachments/assets/4175635d-137e-4635-ac2b-a45967e4bcd6" width="450"/>
+  <img src="https://github.com/user-attachments/assets/b9ff3077-30aa-4183-be79-397b7b996fe7" width="400"/>
+  <img src="https://github.com/user-attachments/assets/4175635d-137e-4635-ac2b-a45967e4bcd6" width="400"/>
 </p>
 
 ### Post Creation, Edit User Profile
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/d05bf190-9a83-4b0f-b0bb-e91881512569" width="450"/>
-  <img src="https://github.com/user-attachments/assets/1fe47020-6c14-4e29-93cd-7579b181dff6" width="450"/>
+  <img src="https://github.com/user-attachments/assets/d05bf190-9a83-4b0f-b0bb-e91881512569" width="400"/>
+  <img src="https://github.com/user-attachments/assets/1fe47020-6c14-4e29-93cd-7579b181dff6" width="400"/>
 </p>
 
 ---
