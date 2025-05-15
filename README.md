@@ -30,6 +30,8 @@ To run locally:
 
 Clone repo
 
+Create .env.local file to store firebase configuration keys
+
 On the project terminal:
 > npm install
 
