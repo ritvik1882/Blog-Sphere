@@ -26,7 +26,11 @@ Developed on Next.js and Firebase, Blog Sphere provides a modern and responsive 
 
 ---
 
-To run locally, on the project terminal type:
+To run locally:
+
+Clone repo
+
+On the project terminal:
 > npm install
 
 > npm run dev
